@@ -1,2 +1,3 @@
-# appstore_reviews_analysis
+# AppStore Reviews Analysis
+
 Sentiment analysis on reviews posted on Appstore.
